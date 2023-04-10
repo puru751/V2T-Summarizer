@@ -1,2 +1,2 @@
 # V2T-Summarizer
-I
+This is a code for video to Text Summarizer.
